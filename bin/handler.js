@@ -22,7 +22,7 @@ module.exports = {
  * Package version. Community requested feature.
  * console.log(require('quick.db').version);
  */
-  version: '7.0.0b22',
+  version: '7.0.0',
  /**
  * This function initialize the database on the sqlite file of your choice.
  * @param {string} dbname the string of the sqlite file path
